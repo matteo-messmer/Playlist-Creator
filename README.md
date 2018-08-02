@@ -1,2 +1,3 @@
 # Playlist-Creator
-This app helps in the creation of a playlist. I created it because I couldn't find any that tells the amount of time after which a song comes up.
+This app helps in the creation of a playlist.
+I don't work on this anymore, it is buggy. I created it to create the playlist for a party and nothing more.
