@@ -1,0 +1,12 @@
+C:\Users\matteo\Desktop\dk\Progetti\PlaylistCreator\PlaylistCreator\bin\Debug\PlaylistCreator.exe.config
+C:\Users\matteo\Desktop\dk\Progetti\PlaylistCreator\PlaylistCreator\obj\Debug\PlaylistCreator.csprojResolveAssemblyReference.cache
+C:\Users\matteo\Desktop\dk\Progetti\PlaylistCreator\PlaylistCreator\obj\Debug\PlaylistCreator.Form1.resources
+C:\Users\matteo\Desktop\dk\Progetti\PlaylistCreator\PlaylistCreator\obj\Debug\PlaylistCreator.Properties.Resources.resources
+C:\Users\matteo\Desktop\dk\Progetti\PlaylistCreator\PlaylistCreator\obj\Debug\PlaylistCreator.csproj.GenerateResource.Cache
+C:\Users\matteo\Desktop\dk\Progetti\PlaylistCreator\PlaylistCreator\bin\Debug\PlaylistCreator.exe
+C:\Users\matteo\Desktop\dk\Progetti\PlaylistCreator\PlaylistCreator\bin\Debug\PlaylistCreator.pdb
+C:\Users\matteo\Desktop\dk\Progetti\PlaylistCreator\PlaylistCreator\obj\Debug\PlaylistCreator.exe
+C:\Users\matteo\Desktop\dk\Progetti\PlaylistCreator\PlaylistCreator\obj\Debug\PlaylistCreator.pdb
+C:\Users\matteo\Desktop\dk\Progetti\PlaylistCreator\PlaylistCreator\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\matteo\Desktop\dk\Progetti\PlaylistCreator\PlaylistCreator\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\matteo\Desktop\dk\Progetti\PlaylistCreator\PlaylistCreator\obj\Debug\PlaylistCreator.csproj.CoreCompileInputs.cache
